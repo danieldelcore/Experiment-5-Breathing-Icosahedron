@@ -8,8 +8,8 @@ export default class SpikeBall {
             speed: 800,
             radius: 400,
             detail: 2,
-            min: 350,
-            max: 300,
+            min: 160,
+            max: 450,
             delay: 500,
         };
 

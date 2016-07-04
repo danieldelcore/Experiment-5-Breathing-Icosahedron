@@ -1,13 +1,13 @@
-# Experiment 4
+# Experiment 5
 
 ![alt tag](thumb.jpg)
 
-## The Spike Ball!
-After some hacking of the Explode Modifier script, I've managed to add three new faces to each face in the Icosahedron Geometry. Connecting them to a vertex positioned in the center of that face and moving them individually enables me to achieve this effect.
+## Breathing Icosahedron
+Exploded sphere geometry in Three.js. Using a similar method to experiment #4, All faces have been disconnected from the original geometry so that they may be moved independently. Additional faces have been added to each of the outer faces and are animated after a delay.
 
-Play around with the *size* and *speed* variables and see how it behaves.
+Play around with the *size*, *speed* and *delay* variables and see how it behaves.
 
-[Live demo](http://danieldelcore.com/lab/4)
+[Live demo](http://danieldelcore.com/lab/5)
 
 ## Initial setup
 - `npm install --global gulp-cli` : Install gulp globally

@@ -52,7 +52,6 @@ export default function explodeModifier(geometry) {
     }
 
     g.vertices = vertices;
-    // g.vertices[vertices.length - 1] = new THREE.Vector3(0, 0, 0);
     g.faces = faces;
     g.faceVertexUvs[0] = uv;
     return g;
