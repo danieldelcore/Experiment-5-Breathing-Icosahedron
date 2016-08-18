@@ -9,7 +9,7 @@ Play around with the *size*, *speed* and *delay* variables and see how it behave
 
 [Live demo](http://danieldelcore.com/lab/5)
 
-## Initial setup
+## Initial setup 
 - `npm install --global gulp-cli` : Install gulp globally
 - `npm i` Install dependencies
 
